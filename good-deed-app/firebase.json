@@ -1,1 +1,0 @@
-{ "hosting": [ { "target": "site1", "public": "site1-submission", "ignore": ["firebase.json", "**/.*", "**/node_modules/**"] }, { "target": "site2", "public": "site2-admin", "ignore": ["firebase.json", "**/.*", "**/node_modules/**"] } ] }
